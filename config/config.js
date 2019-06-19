@@ -19,11 +19,21 @@ exports.dbConfig = {
   production: {
     // "use_env_variable": "JAWSDB_URL",
     // "dialect": "mysql"
-    username: 'u44h3q2k9lqyvexo',
-    password: 'feis9tvse71veykb',
-    database: 'qmjmnm0yyv0xwcj2',
-    host: 'x3ztd854gaa7on6s.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
+    // username: 'u44h3q2k9lqyvexo',
+    // password: 'feis9tvse71veykb',
+    // database: 'qmjmnm0yyv0xwcj2',
+    // host: 'x3ztd854gaa7on6s.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
+    // port: '3306',
+    // dialect: "mysql"
+
+    //jswsdb2
+    username: 'm3i0eiykjom2udcz',
+    password: 'dcf2v7fxy29tbar8',
+    database: 'pntsvlp03kajfjs1',
+    host: 's54ham9zz83czkff.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
     port: '3306',
     dialect: "mysql"
+
+    	
   }
 };
